@@ -14,7 +14,7 @@ No lab server? [Practise it in your browser](https://labfabric.pro/guided-labs/a
 - Apply an ACL to an interface in the correct direction (in vs out)
 - Read show access-lists and show ip interface to verify ACL placement
 - Understand wildcard masks and how they differ from subnet masks
-- Diagnose a host silently caught by an ACL's implicit deny
+- Diagnose a host caught by an ACL's implicit deny
 
 ## What's in the file
 
@@ -28,6 +28,8 @@ No lab server? [Practise it in your browser](https://labfabric.pro/guided-labs/a
 The file does not include node images. It expects your own licensed copy of:
 
 - `L3-ADVENTERPRISEK9-M-15.4-2T.bin`
+
+If your copy has a different name, open each node's Edit dialog after importing and pick your image from the list.
 
 ## Setup
 
