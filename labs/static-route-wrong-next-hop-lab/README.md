@@ -2,6 +2,8 @@
 
 R1's static route to a remote LAN never shows up in the routing table. Find out why, repair it, and prove the remote LAN is reachable.
 
+![The static route lab open in PNETLab: R1-LAN, R1, R2 and PC-REMOTE in a line, plus symptom, objectives, checklist and topology facts cards](../../images/static-route-wrong-next-hop-lab.jpg)
+
 **[Download the .unl from LabFabric](https://labfabric.pro/free-labs/static-route-wrong-next-hop-lab?utm_source=github&utm_medium=referral&utm_campaign=eve-ng-pnetlab-labs)** (38 KB, free, CC BY 4.0)
 
 No lab server? [Practise it in your browser](https://labfabric.pro/guided-labs/static-route-wrong-next-hop-lab?utm_source=github&utm_medium=referral&utm_campaign=eve-ng-pnetlab-labs) instead.
