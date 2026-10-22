@@ -1,3 +1,5 @@
+<p align="center"><a href="https://labfabric.pro/free-labs?utm_source=github&utm_medium=referral&utm_campaign=eve-ng-pnetlab-labs"><img src="images/banner.svg" alt="LabFabric: free EVE-NG and PNETLab labs" width="100%"></a></p>
+
 # Free EVE-NG and PNETLab labs (.unl)
 
 10 free CCNA and CCNP troubleshooting labs for your own EVE-NG or PNETLab server. Each lab is a broken network to fix, packaged as a `.unl` file with faulted startup configs, canvas notes and a step-by-step walkthrough workbook.
