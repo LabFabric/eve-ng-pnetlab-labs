@@ -26,6 +26,8 @@ The file does not include node images. It expects your own licensed copy of:
 
 - `iosv-159-3-m6`
 
+If your copy has a different name, open each node's Edit dialog after importing and pick your image from the list.
+
 ## Setup
 
 Replace `<your-server>` with the IP address or hostname of your EVE-NG or PNETLab server.

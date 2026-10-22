@@ -2,7 +2,7 @@
 
 Two routers share a working /30 link, but their OSPF adjacency never forms. Work up from Layer 3 to find out why.
 
-![The OSPF area mismatch lab open in PNETLab: symptom, objectives and investigation cards around R1 and R2 linked on Ethernet1/0 in Area 0](../../images/ospf-neighbor-area-mismatch-lab.jpg)
+![The OSPF area mismatch lab open in PNETLab: symptom, objectives and investigation cards around R1 and R2 linked on Ethernet1/0, inside the canvas's intended Area 0 boundary](../../images/ospf-neighbor-area-mismatch-lab.jpg)
 
 **[Download the .unl from LabFabric](https://labfabric.pro/free-labs/ospf-neighbor-area-mismatch-lab?utm_source=github&utm_medium=referral&utm_campaign=eve-ng-pnetlab-labs)** (51 KB, free, CC BY 4.0)
 
@@ -28,6 +28,8 @@ No lab server? [Practise it in your browser](https://labfabric.pro/guided-labs/o
 The file does not include node images. It expects your own licensed copy of:
 
 - `L3-ADVENTERPRISEK9-M-15.4-2T.bin`
+
+If your copy has a different name, open each node's Edit dialog after importing and pick your image from the list.
 
 ## Setup
 
